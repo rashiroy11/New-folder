@@ -15,7 +15,7 @@ int binarySearch(int arr[], int size, int target){
 }
 int main(){
     int n;
-    printf("Enter number of elements\n");
+    // printf("Enter number of elements\n");
     scanf("%d", &n);
     int arr[n];
     printf("Enter %d elements: \n",n);
